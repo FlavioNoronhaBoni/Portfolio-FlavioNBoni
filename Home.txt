@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//Pt-br
+"html lang="Pt-br">
+
+<head>
+<style>
+     body{
+
+	
+		 }
+		 
+	.telaprincipal{
+	background-color: #000;
+	color: white;
+	font-family: "Lucida Console", Monaco, monospace;		
+		}
+		 
+.telaprincipal {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 50px;
+	font-weight: bold;
+	background-Color:#CCC;
+	color: #F00;
+}
+
+.direito{
+	float:left;
+	
+	}
+</style>
+<head>  	
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">  	
+	<title>HOME</title>  	
+   <link rel="stylesheet"  href="css/styles.css" type="text/css" media="screen">  
+  
+</head>
+     
+</head>
+<body>  
+<div id="container">
+ <span class="rodapé">
+  <blockquote>
+ 
+ 
+    
+                                            
+
+                                            
+</span>
+          
+          
+          
+         
+      
+      </figcaption> 
+</figure>  </a>
+<p>&nbsp;</p>
+</h3>
+  
+    <div id="mainnav">
+    	<ul>
+      		<li><a href="Home.html">HOME</a></li>
+    		<li><a href="HistóriaCloud.html">HISTÓRIA </a></li>
+      		<li><a href="beneficios.html">BENEFÍCIOS</a></li>
+      		<li><a href="Propriedades.html">PROPRIEDADES </a></li>
+    	</ul>
+  </div>
+
+<div class="telaprincipal">
+  <p>  
+  <blockquote>
+    <blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <blockquote>
+                <blockquote>
+                  <blockquote><h1 class="marcação">&nbsp;</h1>
+                    </blockquote>
+                  </blockquote>
+                </blockquote>
+              </blockquote>
+            <h2><strong>
+                <font color=#FFF> CLOUD COMPUTING <br>
+              VOCÊ SABE O QUE É?</strong></h2>
+            <h2><strong><marquee direction=up <P align="center"><center> <font color=#FFF>APERTE PLAY!</font></p></marquee></h2>
+            <blockquote>
+              <blockquote>
+                <blockquote>
+                  <blockquote>
+                      
+              
+                      
+                  </blockquote>
+                  </blockquote>
+                </blockquote>
+            </blockquote>
+          </blockquote>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+ <strong>
+ <center>
+    
+    <iframe width="500" height="300" src="https://www.youtube.com/embed/FDFejm-ovtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>&nbsp;</p>
+  </center>
+  </strong>  
+  <strong> </strong>
+  
+  <div class="video"></div>
+</div> 
+</div>
+  <div class="rodapé" id="footer">
+ 
+ 
+
+    <p class="rodapé"><strong>   <font color=#FFF> FLÁVIO NORONHA BONI
+          </strong></p>
+    <p class="rodapé"><strong><font color=#FFF> fgotur@hotmail.com  -   
+          2023</strong></p>
+  
+</div>
+</div>
+</body>  
+</html>
